@@ -738,6 +738,29 @@ p {
     box-shadow: var(--shadow-md);
 }
 
+/* CV Card */
+.cv-card {
+    align-items: center;
+    gap: 1.5rem;
+}
+.cv-thumb {
+    flex-shrink: 0;
+}
+.cv-image {
+    width: 140px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: var(--shadow-sm);
+    border: 2px solid #ffffff;
+}
+.cv-actions {
+    display: flex;
+    gap: 0.75rem;
+    margin-top: 0.5rem;
+    flex-wrap: wrap;
+}
+
 .contact-icon {
     width: 60px;
     height: 60px;
