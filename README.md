@@ -30,7 +30,7 @@ Live demo: https:https://myportfolio-ochre-alpha-36.vercel.app/
 ## Author
 **Md. Hasmir Hassan**  
 Email: hasmir845@gmail.com  
-GitHub: https://github.com/your-username  
+GitHub: https://github.com/Hasmir845 
 
 
 
